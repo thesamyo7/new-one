@@ -1,3 +1,3 @@
 # new-one
 this is my first repository..
-samarth chikkegouda
+ Author-samarth chikkegouda
